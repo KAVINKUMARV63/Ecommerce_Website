@@ -56,16 +56,18 @@ Pick what you like — common choices:
 ## Screenshots
 
 ### 🏠 Home Page
-![Home Page](/assets/screenshot/Screenshot1.png)
-(/assets/screenshot/Screenshot2.png)
-(/assets/screenshot/Screenshot3.png)
-(/assets/screenshot/Screenshot4.png)
-(/assets/screenshot/Screenshot4(2).png)
-
-
-### 🛒 Products Page
-![Products Page](assets/screenshots/products.png)
+![Home Page](Screenshot1.png)
+![Home Page](Screenshot2.png)
+![Home Page](Screenshot3.png)
+![Home Page](Screenshot4.png)
+![Home Page](Screenshot4(2).png)
 
 ### 🛍️ Cart Page
-![Cart Page](assets/screenshots/cart.png)
+![Cart Page](Screenshot5.png)
+
+### 🛍️ Checkout Page
+![Checkout Page](Screenshot6.png)
+
+### 🛍️  order confirm Page
+![order_confirm Page](Screenshot7.png)
 
