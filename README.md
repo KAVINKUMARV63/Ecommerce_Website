@@ -1,6 +1,6 @@
 # E-commerce Website Design
 
-Short description
+
 A simple e-commerce website prototype implementing the essential pages/features needed to buy and display products online (catalog, product pages, cart, checkout, etc).
 
 > Project requirements and page/component list are taken from the project brief (Home, Products, Product View, Category, Cart, Checkout, Order Confirmation, About, Contact, Search). :contentReference[oaicite:1]{index=1}
@@ -51,7 +51,7 @@ Pick what you like — common choices:
 
 ---
 
-## Screenshots
+
 
 ## Screenshots
 
